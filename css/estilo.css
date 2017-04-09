@@ -47,6 +47,8 @@ header svg{height: 150px; width:auto;}
 	header{top:10%;}
 	header svg{display:none;}
 	/*…solo cambio un par de reglas*/
+	#titulo-video {font-size:5vw;}
+	.subtitulo-video {font-size:5vw;}
 }
 
 video{
